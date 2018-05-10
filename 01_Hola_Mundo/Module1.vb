@@ -1,7 +1,10 @@
 ﻿Module Module1
 
     Sub Main()
-        'sssssss
+        'sssssssxscdxd
+        'nueva linea
+        Console.WriteLine("Hola Mundo")
+        Console.ReadKey()
     End Sub
 
 End Module
